@@ -5,10 +5,8 @@ The Birthday Assistant project, which will remind you of the birthdays of your f
 # Quickstart
 ### 1. Нужно создать python проект и установить необходимые модули:
 - telebot
-- sqlite3
 - apscheduler
 - requests
-- json
 
 ### 2. Создать файл в проекте и скопировать туда код:
 ```python
